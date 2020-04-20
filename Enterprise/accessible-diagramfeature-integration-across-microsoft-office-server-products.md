@@ -12,7 +12,9 @@ localization_priority: Normal
 ms.assetid: d78983fa-0951-49b8-b890-d76a44c70035
 f1.keywords:
 - NOCSH
-description: "This article is an accessible text version of the diagram named Feature Integration Across Microsoft Office Server Products - SharePoint Server, Exchange Server, Lync Server, and Office Online Server."
+ms.custom:
+- seo-marvel-apr2020
+description: View and learn how to print an accessible text version of the Visio or PDF diagram named Feature Integration Across Microsoft Office Server Products.
 ---
 
 # Accessible diagram - Feature Integration Across Microsoft Office Server Products

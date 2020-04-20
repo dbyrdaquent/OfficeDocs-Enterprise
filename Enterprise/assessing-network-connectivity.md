@@ -11,13 +11,15 @@ localization_priority: Normal
 ms.collection: Ent_O365
 f1.keywords:
 - CSH
-ms.custom: Adm_O365
+ms.custom:
+- Adm_O365
+- seo-marvel-apr2020
 search.appverid:
 - MET150
 - MOE150
 - BCS160
 ms.assetid: 64b420ef-0218-48f6-8a34-74bb27633b10
-description: "Office 365 is designed to enable customers all over the world to connect to the service using an internet connection. As the service evolves, the security, performance, and reliability of Office 365 are improved based on customers using the internet to establish a connection to the service."
+description: Learn how to assess your organization's Office 365 connectivity and how to use the Network Onboarding tool. 
 ---
 
 # Assessing Office 365 network connectivity

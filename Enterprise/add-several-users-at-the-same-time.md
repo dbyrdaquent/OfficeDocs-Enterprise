@@ -14,6 +14,7 @@ ms.custom:
 - 'O365P_AddUsersCSV'
 - 'O365M_AddUsersCSV'
 - 'O365E_AddUsersCSV'
+- seo-marvel-apr2020
 search.appverid:
 - MET150
 - MOP150
@@ -24,7 +25,7 @@ search.appverid:
 - GEA150
 - BCS160
 ms.assetid: 1f5767ed-e717-4f24-969c-6ea9d412ca88
-description: "Learn how to add multiple users to Office 365 for business from a list in a spreadsheet or other CSV formatted file. Watch a video on YouTube that explains how to add accounts to Office 365. At the end of this process, each user with an account will have an Office 365 mailbox. "
+description: Learn how to add multiple users to Office 365 for business from a list in a spreadsheet or other CSV formatted file.
 ---
 
 # Add several users at the same time to Office 365 - Admin Help
